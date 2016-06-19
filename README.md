@@ -4,11 +4,10 @@ Git for Windows.   国内直接从官网（`http://git-scm.com/download/win`）�
 
 The latest (2.9.0) version of Git for Windows, was released on 2016-6-15. 
 
-## Downloads
-v2.9.0 (2016-6-15)
+## v2.9.0 (2016-6-15)
 
-64-bit Git for Windows Setup : <http://pan.baidu.com/s/1c29Jhwk>
-64-bit Git for Windows Portable : <http://pan.baidu.com/s/1mh7kHYS>
+* 64-bit Git for Windows Setup : <http://pan.baidu.com/s/1c29Jhwk>
+* 64-bit Git for Windows Portable : <http://pan.baidu.com/s/1mh7kHYS>
 
 ### v2.8.4 (2016-6-7)
 
