@@ -6,7 +6,7 @@ The latest (2.11.0) version of Git for Windows, was released on 2016-12-1.
 
 ## v2.11.0 (2016-12-1)
 
-* 64-bit Git for Windows Setup :  
+* 64-bit Git for Windows Setup :  https://pan.baidu.com/s/1mhMSJEg
 * 64-bit Git for Windows Portable :  
 
 ## v2.10.0 (2016-9-3)
