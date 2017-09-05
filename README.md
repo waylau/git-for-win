@@ -2,7 +2,12 @@
 
 Git for Windows.   国内直接从官网（`http://git-scm.com/download/win`）下载比较困难，需要翻墙。这里提供一个国内的下载站，方便网友下载
 
-The latest (2.13.2) version of Git for Windows, was released on 2017-06-2. 
+The latest (2.14.1) version of Git for Windows, was released on 2017-09-05. 
+
+## v2.14.1 (2017-09-05)
+
+* 64-bit Git for Windows Setup :  https://npm.taobao.org/mirrors/git-for-windows/v2.14.1.windows.1/Git-2.14.1-64-bit.exe
+* 64-bit Git for Windows Portable :  https://npm.taobao.org/mirrors/git-for-windows/v2.14.1.windows.1/PortableGit-2.14.1-64-bit.7z.exe
 
 ## v2.13.2 (2017-06-26)
 
