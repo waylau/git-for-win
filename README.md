@@ -7,7 +7,7 @@ Git for Windows.   国内直接从官网（`http://git-scm.com/download/win`）�
 The latest (v2.25.0) version of Git for Windows, was released on 2020-1-13.
 
 
-## v2.25.0 (2019-01-13)
+## v2.25.0 (2020-01-13)
 
 * 64-bit Git for Windows Setup : <https://npm.taobao.org/mirrors/git-for-windows/v2.25.0.windows.1/Git-2.25.0-64-bit.exe>
 * 64-bit Git for Windows Portable : <https://npm.taobao.org/mirrors/git-for-windows/v2.25.0.windows.1/PortableGit-2.25.0-64-bit.7z.exe>
