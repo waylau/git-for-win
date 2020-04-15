@@ -4,13 +4,13 @@ Git for Windows.   国内直接从官网（`http://git-scm.com/download/win`）�
 
 找不到想要的版本？您可以访问 [淘宝 NPM 的 Git for Windows 索引页](https://npm.taobao.org/mirrors/git-for-windows/) 以下载更多版本。
 
-The latest (v2.26.0) version of Git for Windows, was released on 2020-3-22.
+The latest (v2.26.1) version of Git for Windows, was released on 2020-3-25.
 
 
-## v2.26.0 (2020-03-22)
+## v2.26.0 (2020-03-25)
 
-* 64-bit Git for Windows Setup : <https://npm.taobao.org/mirrors/git-for-windows/v2.26.0.windows.1/Git-2.26.0-64-bit.exe>
-* 64-bit Git for Windows Portable : <https://npm.taobao.org/mirrors/git-for-windows/v2.26.0.windows.1/PortableGit-2.26.0-64-bit.7z.exe>
+* 64-bit Git for Windows Setup : <https://npm.taobao.org/mirrors/git-for-windows/v2.26.1.windows.1/Git-2.26.1-64-bit.exe>
+* 64-bit Git for Windows Portable : <https://npm.taobao.org/mirrors/git-for-windows/v2.26.1.windows.1/PortableGit-2.26.1-64-bit.7z.exe>
 
 ## v2.25.1 (2020-02-17)
 
